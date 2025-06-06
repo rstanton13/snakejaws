@@ -381,7 +381,7 @@ if(make.data.new){
     }
     ## setting stuff up (loading in the main sheet, making blank data frames, etc) and filling in the data
     suppressWarnings({
-      sheet <- readxl::read_xlsx("input_sheets/serpentes_MA_data_Title2024_MANUAL.xlsx")
+      sheet <- readxl::read_xlsx("input_sheets/speicmen_data.xlsx")
       endpt <- length(sheet$type)
       sheet <- sheet[1:endpt,]
       sheet <- sheet[!is.na(sheet$round2),]

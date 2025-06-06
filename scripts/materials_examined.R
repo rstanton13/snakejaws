@@ -17,7 +17,7 @@
   options(scipen=999)
 }
 
-sheet = read_xlsx("input_sheets/serpentes_MA_data_Title2024_MANUAL.xlsx")
+sheet = read_xlsx("input_sheets/specimen_data.xlsx")
 
 sh = sheet[!is.na(sheet$round2) & !grepl("skip",sheet$Notes),]
 spec = sh$Specimen
