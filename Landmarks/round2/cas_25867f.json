@@ -1,0 +1,244 @@
+{
+  "nodes": [
+    [
+      "Node 1",
+      {
+        "normal": "0 0 1",
+        "position": "0.002841 0.00073 0.001899",
+        "scale": 0.000085,
+        "targetId": "https://www.morphosource.org/downloads/00d0ef40-e788-4d72-b0a3-bbde082a7c1c?file=glb",
+        "title": "Node 1"
+      }
+    ],
+    [
+      "Node 2",
+      {
+        "normal": "0.231373 -0.416469 -0.879216",
+        "position": "0.00273 0.00055 0.001481",
+        "scale": 0.000085,
+        "targetId": "https://www.morphosource.org/downloads/00d0ef40-e788-4d72-b0a3-bbde082a7c1c?file=glb",
+        "title": "Node 2"
+      }
+    ],
+    [
+      "Node 3",
+      {
+        "normal": "0.922146 0.063596 -0.381578",
+        "position": "0.001436 0.000321 0.001429",
+        "scale": 0.000085,
+        "targetId": "https://www.morphosource.org/downloads/00d0ef40-e788-4d72-b0a3-bbde082a7c1c?file=glb",
+        "title": "Node 3"
+      }
+    ],
+    [
+      "Node 4",
+      {
+        "normal": "0.071613 0.358058 0.930949",
+        "position": "0.001156 0.000273 0.001358",
+        "scale": 0.000085,
+        "targetId": "https://www.morphosource.org/downloads/00d0ef40-e788-4d72-b0a3-bbde082a7c1c?file=glb",
+        "title": "Node 4"
+      }
+    ],
+    [
+      "Node 5",
+      {
+        "normal": "-0.576018 0.624021 -0.528016",
+        "position": "-0.003373 -0.000168 0.000259",
+        "scale": 0.000085,
+        "targetId": "https://www.morphosource.org/downloads/00d0ef40-e788-4d72-b0a3-bbde082a7c1c?file=glb",
+        "title": "Node 5"
+      }
+    ],
+    [
+      "Node 6",
+      {
+        "normal": "0.318985 0.917069 -0.239234",
+        "position": "0.002795 0.001735 0.00145",
+        "scale": 0.000085,
+        "targetId": "https://www.morphosource.org/downloads/00d0ef40-e788-4d72-b0a3-bbde082a7c1c?file=glb",
+        "title": "Node 6"
+      }
+    ],
+    [
+      "Node 7",
+      {
+        "normal": "-0.155753 0.986431 -0.051914",
+        "position": "0.002297 0.001729 0.001551",
+        "scale": 0.000085,
+        "targetId": "https://www.morphosource.org/downloads/00d0ef40-e788-4d72-b0a3-bbde082a7c1c?file=glb",
+        "title": "Node 7"
+      }
+    ]
+  ],
+  "edges": [],
+  "angles": []
+}
+
+{
+  "nodes": [
+    [
+      "Node 1",
+      {
+        "normal": "0.947759 0.11847 0.296171",
+        "position": "0.003025 0.00015 0.001325",
+        "scale": 0.000088,
+        "targetId": "https://www.morphosource.org/downloads/f9993f1c-462b-4e1e-b1e3-2d8b2b2621f2?file=glb",
+        "title": "Node 1"
+      }
+    ],
+    [
+      "Node 2",
+      {
+        "normal": "0.272175 -0.136079 0.952577",
+        "position": "0.002431 0.000444 0.0013",
+        "scale": 0.000088,
+        "targetId": "https://www.morphosource.org/downloads/f9993f1c-462b-4e1e-b1e3-2d8b2b2621f2?file=glb",
+        "title": "Node 2"
+      }
+    ]
+  ],
+  "edges": [
+    [
+      "Edge 1",
+      {
+        "node1Id": "Node 1",
+        "node2Id": "Node 2"
+      }
+    ]
+  ],
+  "angles": []
+}
+{
+  "nodes": [
+    [
+      "Node 1",
+      {
+        "normal": "0.235702 0.235699 -0.94281",
+        "position": "0.003029 0.00069 -0.001618",
+        "scale": 0.000085,
+        "targetId": "https://www.morphosource.org/downloads/00d0ef40-e788-4d72-b0a3-bbde082a7c1c?file=glb",
+        "title": "Node 1"
+      }
+    ],
+    [
+      "Node 2",
+      {
+        "normal": "0.260102 -0.100038 0.960385",
+        "position": "0.002883 0.000559 -0.001209",
+        "scale": 0.000085,
+        "targetId": "https://www.morphosource.org/downloads/00d0ef40-e788-4d72-b0a3-bbde082a7c1c?file=glb",
+        "title": "Node 2"
+      }
+    ],
+    [
+      "Node 3",
+      {
+        "normal": "0.683754 0.569819 0.455836",
+        "position": "0.001608 0.000373 -0.001317",
+        "scale": 0.000085,
+        "targetId": "https://www.morphosource.org/downloads/00d0ef40-e788-4d72-b0a3-bbde082a7c1c?file=glb",
+        "title": "Node 3"
+      }
+    ],
+    [
+      "Node 4",
+      {
+        "normal": "-0.127002 0.762 -0.635001",
+        "position": "0.001262 0.000271 -0.00129",
+        "scale": 0.000085,
+        "targetId": "https://www.morphosource.org/downloads/00d0ef40-e788-4d72-b0a3-bbde082a7c1c?file=glb",
+        "title": "Node 4"
+      }
+    ],
+    [
+      "Node 5",
+      {
+        "normal": "-0.833949 0.449051 0.320753",
+        "position": "-0.003347 -0.000104 -0.000502",
+        "scale": 0.000085,
+        "targetId": "https://www.morphosource.org/downloads/00d0ef40-e788-4d72-b0a3-bbde082a7c1c?file=glb",
+        "title": "Node 5"
+      }
+    ],
+    [
+      "Node 6",
+      {
+        "normal": "0.368358 0.515696 0.773544",
+        "position": "0.003016 0.001684 -0.001165",
+        "scale": 0.000085,
+        "targetId": "https://www.morphosource.org/downloads/00d0ef40-e788-4d72-b0a3-bbde082a7c1c?file=glb",
+        "title": "Node 6"
+      }
+    ],
+    [
+      "Node 7",
+      {
+        "normal": "-0.076195 0.990521 -0.11429",
+        "position": "0.002521 0.001717 -0.001308",
+        "scale": 0.000085,
+        "targetId": "https://www.morphosource.org/downloads/00d0ef40-e788-4d72-b0a3-bbde082a7c1c?file=glb",
+        "title": "Node 7"
+      }
+    ]
+  ],
+  "edges": [],
+  "angles": []
+}
+
+{
+  "nodes": [
+    [
+      "Node 1",
+      {
+        "normal": "0.940723 0.282212 -0.188142",
+        "position": "0.003176 0.000112 -0.001014",
+        "scale": 0.000088,
+        "targetId": "https://www.morphosource.org/downloads/f9993f1c-462b-4e1e-b1e3-2d8b2b2621f2?file=glb",
+        "title": "Node 1"
+      }
+    ],
+    [
+      "Node 2",
+      {
+        "normal": "-0.633748 0.271608 -0.724287",
+        "position": "0.002534 0.000366 -0.001117",
+        "scale": 0.000088,
+        "targetId": "https://www.morphosource.org/downloads/f9993f1c-462b-4e1e-b1e3-2d8b2b2621f2?file=glb",
+        "title": "Node 2"
+      }
+    ],
+    [
+      "Node 3",
+      {
+        "normal": "0.537385 0.830505 0.146558",
+        "position": "0.002041 0.000894 0.000005",
+        "scale": 0.000088,
+        "targetId": "https://www.morphosource.org/downloads/f9993f1c-462b-4e1e-b1e3-2d8b2b2621f2?file=glb",
+        "title": "Node 3"
+      }
+    ],
+    [
+      "Node 4",
+      {
+        "normal": "-0.547119 0.835072 0.05759",
+        "position": "-0.000896 0.001005 -0.000081",
+        "scale": 0.000088,
+        "targetId": "https://www.morphosource.org/downloads/f9993f1c-462b-4e1e-b1e3-2d8b2b2621f2?file=glb",
+        "title": "Node 4"
+      }
+    ],
+    [
+      "Node 5",
+      {
+        "normal": "-0.911325 0.390562 -0.130188",
+        "position": "-0.004222 -0.000327 -0.000163",
+        "scale": 0.000088,
+        "targetId": "https://www.morphosource.org/downloads/f9993f1c-462b-4e1e-b1e3-2d8b2b2621f2?file=glb",
+        "title": "Node 5"
+      }
+    ]
+  ],
+  "edges": [],
+  "angles": []
+}
