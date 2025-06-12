@@ -49,7 +49,7 @@ rpmplot = ggplot(data=d, aes(x=prey_taxon, y = rpm, color = prey_taxon)) +
   geom_boxplot(outlier.shape = NA) +
   labs(
     x = "Type of prey",
-    y = "RPM"
+    y = "RPM (log scale)"
   ) + 
   geom_quasirandom(alpha=0.7) +
   scale_color_manual(values=c("gray50","gray50","gray50","forestgreen","mediumpurple2","mediumpurple2",
@@ -64,7 +64,10 @@ rpmplot = ggplot(data=d, aes(x=prey_taxon, y = rpm, color = prey_taxon)) +
                         axis.line.x.top = element_blank(),
                         legend.spacing = unit(20, "lines"),
                         legend.position = "none"
-  )
+  ) +
+  scale_y_log10()
+
+rpmplot
 
 ggsave(plot = rpmplot,
        filename = "figs/RPM_plot.png",
