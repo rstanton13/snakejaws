@@ -1,1 +1,1 @@
-### Data and scripts for Stanton et al., Functional dietary specialization drives phenotypic evolution in the snake jaw system
+Functional dietary specialization and unique biomechanical trade-offs underpin phenotypic evolution in the snake jaw system
